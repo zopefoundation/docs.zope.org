@@ -24,8 +24,7 @@ development and nearing release 4.0.
 
 Older Zope 2 documentation
 ==========================
-* `Zope secrets <http://docs.zope.org/zope_secrets/>`_
-
+* `Zope Secrets <./zope_secrets/index.html>`_
 
 ZODB
 ====
