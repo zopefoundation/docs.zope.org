@@ -1,8 +1,6 @@
 docs.zope.org
 =============
 
-This repository contains the Sphinx sources and a buildout configuration to
-develop the website content for http://docs.zope.org.
-
-The subfolder `/developers` presents content from the repository at
-https://github.com/zopefoundation/developer_docs.
+** PLEASE NOTE **: The sources for docs.zope.org have been merged into the
+www.zope.org repository at https://github.com/zopefoundation/www.zope.org.
+Any further changes must be applied there.
